@@ -1,0 +1,1 @@
+# swarmprom-alertmanager-discord
